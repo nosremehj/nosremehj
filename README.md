@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jhemerson Santos 👋
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Atualmente focado em back-end(Java)
 - 📫 Contate-me no email: tijhemerson@gmail.com
 
 <div align="center">
