@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jhemerson Santos 👋
 
-- 🔭 Atualmente focado em back-end(Java/Spring Boot) e front-end(Angular/Ts)
+- 🔭 Atualmente focado no front-end(Angular/Ts)
 - 📫 Contate-me no email: tijhemerson@gmail.com
 
 
